@@ -1,0 +1,11 @@
+ind,subject,predicate,object,qualifier,qualifier value
+0,绥宁县,start time,424,reference URL,"""https://maps.cga.harvard.edu/tgaz/placename/hvd_42215"""
+1,绥宁县,located in the administrative territorial entity,南海郡,reference URL,"""https://maps.cga.harvard.edu/tgaz/placename/hvd_42215"""
+1,绥宁县,located in the administrative territorial entity,南海郡,stated in,"[""《宋书》, ""《南齐书》""]"
+2,绥宁县,dynasty,刘宋,reference URL,"""https://maps.cga.harvard.edu/tgaz/placename/hvd_42215"""
+2,绥宁县,dynasty,刘宋,stated in,"[""《宋书》""]"
+3,绥宁县,dynasty,齐,reference URL,"""https://maps.cga.harvard.edu/tgaz/placename/hvd_42215"""
+3,绥宁县,dynasty,齐,stated in,"[""《宋书》"", ""《南齐书》""]"
+4,绥宁县,dynasty,梁,reference URL,"""https://maps.cga.harvard.edu/tgaz/placename/hvd_42215"""
+5,绥宁县,end time,502;501,reference URL,"""https://maps.cga.harvard.edu/tgaz/placename/hvd_42215"""
+6,绥宁县,located in the present-day administrative territorial entity,广东省,reference URL,"""https://maps.cga.harvard.edu/tgaz/placename/hvd_42215"""
