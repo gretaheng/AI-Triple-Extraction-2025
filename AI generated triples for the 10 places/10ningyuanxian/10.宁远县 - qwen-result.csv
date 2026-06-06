@@ -1,0 +1,31 @@
+ind,subject,predicate,object,qualifier,qualifier value,reference,reference value
+0,宁远县,replaced,延喜县,point in time,965,reference URL,https://maps.cga.harvard.edu/tgaz/placename/hvd_41974
+0,宁远县,replaced,延喜县,point in time,965,stated in,《元丰九域志》
+0,宁远县,replaced,延喜县,point in time,965,stated in,《宋史》
+1,宁远县,separated from,新田县,point in time,1639,reference URL,https://maps.cga.harvard.edu/tgaz/placename/hvd_41974
+1,宁远县,separated from,新田县,point in time,1639,stated in,《明史》
+2,宁远县,dynasty,北宋,,,reference URL,https://maps.cga.harvard.edu/tgaz/placename/hvd_41974
+2,宁远县,dynasty,北宋,,,stated in,《元丰九域志》
+2,宁远县,dynasty,北宋,,,stated in,《宋史》
+3,宁远县,dynasty,元,,,reference URL,https://maps.cga.harvard.edu/tgaz/placename/hvd_41974
+3,宁远县,dynasty,元,,,stated in,《元史》
+4,宁远县,dynasty,明,,,reference URL,https://maps.cga.harvard.edu/tgaz/placename/hvd_41974
+4,宁远县,dynasty,明,,,stated in,《明史》
+5,宁远县,dynasty,清,,,reference URL,https://maps.cga.harvard.edu/tgaz/placename/hvd_41974
+5,宁远县,dynasty,清,,,stated in,《康熙会典》
+5,宁远县,dynasty,清,,,stated in,《清一统志》
+6,宁远县,located in the present-day administrative territorial entity,湖南省,,,reference URL,https://maps.cga.harvard.edu/tgaz/placename/hvd_41974
+7,宁远县,located in the administrative territorial entity,道州,,,reference URL,https://maps.cga.harvard.edu/tgaz/placename/hvd_41974
+7,宁远县,located in the administrative territorial entity,道州,,,stated in,《元丰九域志》
+7,宁远县,located in the administrative territorial entity,道州,,,stated in,《宋史》
+8,宁远县,located in the administrative territorial entity,道州路,,,reference URL,https://maps.cga.harvard.edu/tgaz/placename/hvd_41974
+8,宁远县,located in the administrative territorial entity,道州路,,,stated in,《元史》
+9,宁远县,located in the administrative territorial entity,永州府,,,reference URL,https://maps.cga.harvard.edu/tgaz/placename/hvd_41974
+9,宁远县,located in the administrative territorial entity,永州府,,,stated in,《明史》
+9,宁远县,located in the administrative territorial entity,永州府,,,stated in,《康熙会典》
+10,宁远县,located in the administrative territorial entity,道州府,,,reference URL,https://maps.cga.harvard.edu/tgaz/placename/hvd_41974
+10,宁远县,located in the administrative territorial entity,道州府,,,stated in,《明史》
+11,宁远县,start time,965,,,reference URL,https://maps.cga.harvard.edu/tgaz/placename/hvd_41974
+11,宁远县,start time,965,,,stated in,《元丰九域志》
+11,宁远县,start time,965,,,stated in,《宋史》
+12,宁远县,end time,1911,,,reference URL,https://maps.cga.harvard.edu/tgaz/placename/hvd_41974
