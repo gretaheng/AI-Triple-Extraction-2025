@@ -1,0 +1,10 @@
+ind,subject,predicate,object,qualifier,qualifier value,reference,reference value
+0,平望镇,dynasty,清,,,reference URL,"""https://maps.cga.harvard.edu/tgaz/placename/hvd_23862"""
+0,平望镇,dynasty,清,,,stated in        ,"[""《吴江县志》"", ""《清一统志》""]"
+1,平望镇,located in the present-day administrative territorial entity,江苏省,,,reference URL,"""https://maps.cga.harvard.edu/tgaz/placename/hvd_23862"""
+2,平望镇,located in the administrative territorial entity,二十四都,,,stated in,"[""《吴江县志》""]"
+2,平望镇,located in the administrative territorial entity,二十四都,,,reference URL,"""https://maps.cga.harvard.edu/tgaz/placename/hvd_23862"""
+3,平望镇,located in the administrative territorial entity,吴江县,,,stated in,"[""《吴江县志》""]"
+3,平望镇,located in the administrative territorial entity,吴江县,,,reference URL,"""https://maps.cga.harvard.edu/tgaz/placename/hvd_23862"""
+4,平望镇,start time,1820,,,reference URL,"""https://maps.cga.harvard.edu/tgaz/placename/hvd_23862"""
+5,平望镇,end time,1820,,,reference URL,"""https://maps.cga.harvard.edu/tgaz/placename/hvd_23862"""
